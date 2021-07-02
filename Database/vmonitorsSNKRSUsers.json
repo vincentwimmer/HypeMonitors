@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "Status": "Active",
+            "ID": "111",
+            "Name": "Test",
+            "Contact Email": "test@test.com",
+            "SNKRS US": "Webhook URL",
+            "SNKRS CAN": "Webhook URL",
+            "SNKRS UK": "Webhook URL",
+            "SNKRS GER": "Webhook URL",
+            "SNKRS FR": "Webhook URL",
+            "SNKRS RU": "Webhook URL",
+            "SNKRS UAE": "Webhook URL",
+            "SNKRS JP": "Webhook URL",
+            "SNKRS CN": "Webhook URL",
+            "SNKRS NA": "Webhook URL",
+            "SNKRS SA": "Webhook URL",
+            "SNKRS EU": "Webhook URL",
+            "SNKRS ME": "Webhook URL",
+            "SNKRS AFR": "Webhook URL",
+            "SNKRS ASA": "Webhook URL",
+            "SNKRS OCE": "Webhook URL"
+        },
+        {
+            "Status": "Inctive",
+            "ID": "222",
+            "Name": "DevBranch",
+            "Contact Email": "dev@dev.com",
+            "SNKRS US": "Webhook URL",
+            "SNKRS CAN": "Webhook URL",
+            "SNKRS UK": "Webhook URL",
+            "SNKRS GER": "Webhook URL",
+            "SNKRS FR": "Webhook URL",
+            "SNKRS RU": "Webhook URL",
+            "SNKRS UAE": "Webhook URL",
+            "SNKRS JP": "Webhook URL",
+            "SNKRS CN": "Webhook URL",
+            "SNKRS NA": "Webhook URL",
+            "SNKRS SA": "Webhook URL",
+            "SNKRS EU": "Webhook URL",
+            "SNKRS ME": "Webhook URL",
+            "SNKRS AFR": "Webhook URL",
+            "SNKRS ASA": "Webhook URL",
+            "SNKRS OCE": "Webhook URL"
+        }
+    ]
+}
