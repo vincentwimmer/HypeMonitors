@@ -1143,7 +1143,7 @@ def Main(url):
 				sleep(random.randint(35,75))
 
 urls = []
-shopify_links = open('shops.txt', 'r')
+shopify_links = open('/Database/ShopifyShops.txt', 'r')
 for slinks in shopify_links:
 	slinks = slinks.strip('\n')
 	urls.append(slinks)
