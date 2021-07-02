@@ -26,4 +26,4 @@ If you plan on forking these to rebuild and use, be sure to run them with a prox
 > - Useragents are managed through **useragents.txt**
 
 ### Micro Center Monitor
-> This is the simplest of the monitors. Edit the code your Webhooks for Discord and then drop in a full product page URL from Micro Center's website and run it. You can take it upon yourself to introduce Threading and things like that with the code laid out in the Shopify Monitor.
+> This is the simplest of the monitors. Edit the code with your Webhooks for Discord and then drop in a full product page URL from Micro Center's website and run it. You can take it upon yourself to introduce Threading and things like that with the code laid out in the Shopify Monitor. Also, it only tracks if the product is in stock or not, but doesn't track the store. Feel free to add that too, you can find a breakdown of each store's availablility by outputting **Line 90's getPage.content** to a txt file and searching for "<span class="storeInStock">"
