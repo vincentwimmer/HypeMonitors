@@ -1,6 +1,6 @@
 # HypeMonitors
 
-Above is a collection of monitors I've made for tracking drops and restocks of hard to find, rare, or in-demand products. Most of these scripts are design to work in a "service" structure. With the ability to be used as a paid service to multiple users/groups on Discord. Service access can be delegated through the accompanying Users.json files.
+Above is a collection of monitors I've made for tracking drops and restocks of hard to find, rare, or in-demand products. Most of these scripts are designed to work in a "service" structure, with the ability to be used as a paid service to multiple users/groups on Discord. Service access can be delegated through the accompanying Users.json files.
 
 Please note, I am releasing these because they're almost all defunct and no longer work. And I am no longer maintaining them.
 
