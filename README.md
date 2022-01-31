@@ -6,6 +6,8 @@ Please note, I am releasing these because they're almost all defunct and no long
 
 If you plan on forking these to rebuild and use, be sure to run them with a proxy and/or VPN
 
+#### All code is written in Python3 and last operated with Anaconda 3.7.6 64-Bit and the standard Linux repo of Python3.
+
 ### Supreme Restock Monitor
 > This monitor tracks stocks and restocks of all products under the "New" category then drops a notification to an assigned Discord channel.
 
