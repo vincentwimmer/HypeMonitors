@@ -1,3 +1,4 @@
+#Feel Free to use/sell/republish this code!
 import requests
 import re
 import time
