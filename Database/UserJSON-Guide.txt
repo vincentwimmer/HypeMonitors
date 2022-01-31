@@ -6,7 +6,7 @@
             "Name": "ExampleWithComments", -- This also isn't utilized for anything, it's just here to help you keep track of Discord server names.
             "Contact Email": "user1@email.com", -- Again, not used, it's for your own records.
             "Shopify New": "Webhook URL", -- This is where you'll put the FULL url of the webhook. The code accepts both variants of the webhook. See below.
-            "Shopify Published": "Webhook URL", -- "https://discordapp.com/api/webhooks/AAAAAAAAAA/BBBBBBBBBB"
+            "Shopify Published": "Webhook URL", --- "https://discordapp.com/api/webhooks/AAAAAAAAAA/BBBBBBBBBB"
             "Shopify Unfiltered": "Webhook URL", -- "https://discord.com/api/webhooks/AAAAAAAAAA/BBBBBBBBBB"
         },
         {
