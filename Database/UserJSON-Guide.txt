@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "Status": "Active", -- If this is set to "Active", then the monitors will deliver messages to the webhooks in this data set.
+            "Status": "Active", -- Only if this is set to "Active", then the monitors will deliver messages to the webhooks in this data set.
             "ID": "111", -- This ID isn't utilized for anything but can be set up to use however you need.
             "Name": "ExampleWithComments", -- This also isn't utilized for anything, it's just here to help you keep track of Discord server names.
             "Contact Email": "user1@email.com", -- Again, not used, it's for your own records.
