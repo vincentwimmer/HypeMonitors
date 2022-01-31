@@ -1,3 +1,4 @@
+#Feel Free to use/sell/republish this code!
 import re
 import json
 import time
