@@ -21,7 +21,7 @@ If you plan on forking these to rebuild and use, be sure to run them with a prox
 > - Useragents are managed through **useragents.txt**
 
 ### Shopify Monitor
-> This monitor takes a list of Shopify stores and creates a thread for each one. It then pulls the products.json file on each store and looks for changes. There are also filters put in place to designate certain items or brands to their own Discord channels. 
+> This monitor takes a list of Shopify stores and creates a thread for each one. It then pulls the products.json file on each store and looks for changes. There are also filters put in place to designate certain items or brands to their own Discord channels. At the height running this, I was able to monitor just over 500 stores simultaneously thanks to threading without much impact on CPU/Memory. There's also a ton of garbage collection implemented to free up resources on every pass.
 > - Discord Webhooks are managed through **vmonitorsShopifyUsers.json** 
 > - Stores are managed through **ShopifyShops.txt**
 > - Proxies are managed through **proxies.txt**
